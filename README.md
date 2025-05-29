@@ -88,18 +88,7 @@
 ---
 
 <!-- CONNECT with neon-glow badges -->
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <a href="adityaprajapati1234567@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF6AC1" />
-  </a>
-  <a href="[https://linkedin.com/in/YOURNAME](https://github.com/adityaprajapati-0)" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=845EC2" />
-  </a>
-  <a href="https://yourportfolio.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white&color=FF6AC1" />
-  </a>
-</p>
+
 
 ---
 
