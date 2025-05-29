@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/7231453a-6b69-4fef-a0ff-524be235c8a0
+https://github.com/user-attachments/assets/f041a17a-d266-40f9-9214-59de36d2cd00
 <h1>Hi 👋, I'm Aditya</h1>
 <p>A passionate frontend developer from India</p>
 <h2>🚀 Languages and Tools I Use</h2>
