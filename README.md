@@ -1,10 +1,5 @@
 <!-- TITLE with gradient -->
-<h1 align="center">
-  Hi, I'm 
-  <span style="background: linear-gradient(90deg, #FF6AC1, #845EC2); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Aditya 👨‍💻
-  </span>
-</h1>
+<![Image](https://github.com/user-attachments/assets/adc0b51f-2825-440f-9d23-94160161ee6b)
 <h3 align="center">🚀 Full-Stack Wizard | UI Alchemist | Code Sorcerer</h3>
 
 <!-- TYPING ANIMATION -->
