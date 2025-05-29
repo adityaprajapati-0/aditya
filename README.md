@@ -1,5 +1,5 @@
 <!-- TITLE with gradient -->
-<![Image](https://github.com/user-attachments/assets/adc0b51f-2825-440f-9d23-94160161ee6b)
+![Image](https://github.com/user-attachments/assets/adc0b51f-2825-440f-9d23-94160161ee6b)
 <h3 align="center">🚀 Full-Stack Wizard | UI Alchemist | Code Sorcerer</h3>
 
 <!-- TYPING ANIMATION -->
@@ -76,16 +76,7 @@
 ---
 
 <!-- FUN GIFS with subtle pulse animation -->
-<style>
-@keyframes pulse {
-  0%, 100% { filter: drop-shadow(0 0 0 #FF6AC1); }
-  50% { filter: drop-shadow(0 0 15px #FF6AC1); }
-}
-img.pulse {
-  animation: pulse 3s infinite;
-  border-radius: 12px;
-}
-</style>
+
 
 <h3 align="center">🎥 Me IRL (Coding Style)</h3>
 <p align="center">
@@ -99,10 +90,10 @@ img.pulse {
 <!-- CONNECT with neon-glow badges -->
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="mailto:your.email@gmail.com" style="text-decoration:none;">
+  <a href="adityaprajapati1234567@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FF6AC1" />
   </a>
-  <a href="https://linkedin.com/in/YOURNAME" style="text-decoration:none;">
+  <a href="[https://linkedin.com/in/YOURNAME](https://github.com/adityaprajapati-0)" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=845EC2" />
   </a>
   <a href="https://yourportfolio.com" style="text-decoration:none;">
